@@ -43,6 +43,9 @@ The primary objective is to uncover critical insights such as
 - Structured Query Language: For querying from databases
 - Power BI: For creating interactive visualizations and dashboards
 
+### DATA ANALYSIS
+This analysis was conducted using Microsoft Excel's PivotTable feature to efficiently summarize and analyze the data. By leveraging PivotTables, I was able to uncover key insights and patterns within the dataset. 
+1. ### Total Sales by Products
 
 
 
