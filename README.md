@@ -17,10 +17,10 @@ I will be doing a documentation of how I was able to do my project
 [DATA MANIPULATION](#data-manipulation)
 
 ### Project Overview
-This project involves a comprehensive analysis of sales data across various products collected from multiple markets and stores within Nigeria’s four main regions. The analysis utilizes Microsoft Excel, SQL, and Pivot tables. The use of an interactive Power BI dashboard was used to  highlight key findings, presenting them in a user-friendly format that makes insights accessible and actionable. Overall, this project supports data-driven decision-making by providing a clear view of sales performance across Nigeria’s regions.
+This project involves a comprehensive analysis of sales data across various products collected from multiple markets and stores within Nigeria’s four main regions. The analysis utilizes Microsoft Excel, SQL, and Pivot tables. The use of an interactive Power BI dashboard was used to highlight key findings, presenting them in a user-friendly format that makes insights accessible and actionable. This project supports data-driven decision-making by clearly showing sales performance across Nigeria’s regions.
 
 ### Data Source
-The data for this analysis was sourced from various point-of-sale systems across the four regions in Nigeria. The dataset includes the following:
+The data for this analysis was sourced from various point-of-sale systems across the four regions in Nigeria. The data sources include the following:
 1. Region: These are the geographical areas (north, south, east and west) where the different stores operate
 2. Quantity: This is the amount or number of the products purchased
 3. Unit Price: This is the price of each single product
@@ -131,6 +131,8 @@ GROUP BY region)
 )
 
 ![products with no sales in the last quarter](https://github.com/user-attachments/assets/f268c0b6-8829-4843-9d5b-e37395fa7db7)
+
+## DATA VISUALIZATION
 
 
 
