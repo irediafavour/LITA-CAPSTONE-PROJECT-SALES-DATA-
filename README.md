@@ -16,6 +16,10 @@ I will be doing a documentation of how I was able to do my project
 
 [DATA MANIPULATION](#data-manipulation)
 
+[DATA VISUALIZATION AND INFERENCE ](data-visualization-and-inference)
+
+[CONCLUSION](conclusion)
+
 ### Project Overview
 This project involves a comprehensive analysis of sales data across various products collected from multiple markets and stores within Nigeria’s four main regions. The analysis utilizes Microsoft Excel, SQL, and Pivot tables. The use of an interactive Power BI dashboard was used to highlight key findings, presenting them in a user-friendly format that makes insights accessible and actionable. This project supports data-driven decision-making by clearly showing sales performance across Nigeria’s regions.
 
@@ -134,12 +138,31 @@ GROUP BY region)
 
 ## DATA VISUALIZATION
 Power BI was used to visualise the insights found in Excel and SQL. The dashboard included sales overview, top-performing products, and regional breakdowns.
+The visualization provides a comprehensive overview of key sales metrics, including total revenue, customer count, product performance, and regional trends.
 
 ![Sales data](https://github.com/user-attachments/assets/2f2038cc-d933-47a8-bf81-dce851e80678)
 
+![East](https://github.com/user-attachments/assets/be99caea-ccf6-4bc3-85f7-0ded99fae321)
 
+![North](https://github.com/user-attachments/assets/15f76378-ac54-459e-9c4f-bdf12fc8d84b)
 
+![South](https://github.com/user-attachments/assets/3c70e542-80b6-4833-b53a-077038cd646a)
 
+![West](https://github.com/user-attachments/assets/63625a32-24c9-4c66-8108-681e8e69f2b5)
+
+The use of slicers was used.
+- The total revenue generated is 2,101,090.
+
+- The total number of customers is 9921.
+
+- The South region has the highest total revenue of 927,820
+
+- The bar chart highlights the top-selling products, with Shoes being the most popular, followed by Shirts, Hats, Jackets, Gloves, and Socks.
+
+- The line chart illustrates the monthly sales trend over the year. It also shows that February has the most generated revenue
+
+## CONCLUSION
+This comprehensive analysis of sales data provides valuable insights into key performance indicators, regional trends and product performance. By leveraging these findings, businesses can make informed decisions to optimize sales strategies, improve customer satisfaction, and drive overall growth.
  
 
 
