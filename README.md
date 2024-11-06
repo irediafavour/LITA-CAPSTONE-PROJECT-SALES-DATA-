@@ -133,6 +133,9 @@ GROUP BY region)
 ![products with no sales in the last quarter](https://github.com/user-attachments/assets/f268c0b6-8829-4843-9d5b-e37395fa7db7)
 
 ## DATA VISUALIZATION
+Power BI was used to visualise the insights found in Excel and SQL. The dashboard included sales overview, top-performing products, and regional breakdowns.
+
+![Sales data](https://github.com/user-attachments/assets/2f2038cc-d933-47a8-bf81-dce851e80678)
 
 
 
